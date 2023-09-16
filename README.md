@@ -1,10 +1,10 @@
 # [**Android User App**](https://github.com/SwasthBharat/Android-User-app)
    - Updated by [Satyendra](https://github.com/S4tyendra)
-   - Updated at [2023-09-16 20:16:03 IST](https://github.com/SwasthBharat/Android-User-app/commit/c6a88817e43d9058b03f46986c9ab9ad5bb08e31)
-   - Latest Commit Message: Delete README.md
+   - Updated at [2023-09-16 22:00:32 IST](https://github.com/SwasthBharat/Android-User-app/commit/eb54bd8a0044d4f1333182c46ce86f85d6683875)
+   - Latest Commit Message: Update update_readme.yml
    - No. of Changed Files: 1
    - Files modified: 
-      - [README.md](https://github.com/SwasthBharat/Android-User-app/blob/c6a88817e43d9058b03f46986c9ab9ad5bb08e31/README.md)
+      - [.github/workflows/update_readme.yml](https://github.com/SwasthBharat/Android-User-app/blob/dd288b21508cf4d31f685b868e48c620261802bb/.github%2Fworkflows%2Fupdate_readme.yml)
 
 
 
