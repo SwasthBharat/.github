@@ -43,11 +43,12 @@
 
 # [**ML Model**](https://github.com/SwasthBharat/ML-Model)
    - Updated by [Satyendra](https://github.com/S4tyendra)
-   - Updated at [2023-09-16 20:15:53 IST](https://github.com/SwasthBharat/ML-Model/commit/917e6eae9ecd3e280307d63793f1040984fc19f4)
-   - Latest Commit Message: Delete README.md
-   - No. of Changed Files: 1
+   - Updated at [2023-09-16 22:06:49 IST](https://github.com/SwasthBharat/ML-Model/commit/63f52fc18d1395791c8d34b9349cfd7f3aaff009)
+   - Latest Commit Message: Add files via upload
+   - No. of Changed Files: 2
    - Files modified: 
-      - [README.md](https://github.com/SwasthBharat/ML-Model/blob/917e6eae9ecd3e280307d63793f1040984fc19f4/README.md)
+      - [.github/workflows/update_readme.yml](https://github.com/SwasthBharat/ML-Model/blob/4d043f913293accd32907f0e8af2876d0b296e0a/.github%2Fworkflows%2Fupdate_readme.yml)
+      - [.github/workflows/wflo.py](https://github.com/SwasthBharat/ML-Model/blob/4d043f913293accd32907f0e8af2876d0b296e0a/.github%2Fworkflows%2Fwflo.py)
 
 
 
