@@ -1,5 +1,5 @@
-# [**ML Model**](https://api.github.com/repos/SwasthBharat/ML-Model)
-   - Updated by [Satyendra](https://github.com/https://github.com/S4tyendra)
+# [**ML Model**](https://github.com/SwasthBharat/ML-Model)
+   - Updated by [Satyendra](https://github.com/S4tyendra)
    - Updated at 2023-09-16 19:31:59 IST
    - Latest Commit Message: Update README.md
    - No. of Changed Files: 1
