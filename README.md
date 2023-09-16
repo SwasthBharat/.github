@@ -10,31 +10,34 @@
 
 # [**Backend Server**](https://github.com/SwasthBharat/Backend-Server)
    - Updated by [Satyendra](https://github.com/S4tyendra)
-   - Updated at [2023-09-16 20:16:01 IST](https://github.com/SwasthBharat/Backend-Server/commit/b0ee6837993f36f33c613d6376e5da81c4a82f6b)
-   - Latest Commit Message: Delete README.md
-   - No. of Changed Files: 1
+   - Updated at [2023-09-16 22:06:24 IST](https://github.com/SwasthBharat/Backend-Server/commit/d96b0ec4704e6c6283925d45cba09c9af9b847ba)
+   - Latest Commit Message: Add files via upload
+   - No. of Changed Files: 2
    - Files modified: 
-      - [README.md](https://github.com/SwasthBharat/Backend-Server/blob/b0ee6837993f36f33c613d6376e5da81c4a82f6b/README.md)
+      - [.github/workflows/update_readme.yml](https://github.com/SwasthBharat/Backend-Server/blob/7bfa5504a168ae091c63ea1bae4186d4ab6d51c3/.github%2Fworkflows%2Fupdate_readme.yml)
+      - [.github/workflows/wflo.py](https://github.com/SwasthBharat/Backend-Server/blob/7bfa5504a168ae091c63ea1bae4186d4ab6d51c3/.github%2Fworkflows%2Fwflo.py)
 
 
 
 # [**Doctor Dashboard**](https://github.com/SwasthBharat/Doctor-Dashboard)
    - Updated by [Satyendra](https://github.com/S4tyendra)
-   - Updated at [2023-09-16 20:15:58 IST](https://github.com/SwasthBharat/Doctor-Dashboard/commit/2134845642e7f919e00babac60e19f85dc050620)
-   - Latest Commit Message: Delete README.md
-   - No. of Changed Files: 1
+   - Updated at [2023-09-16 22:06:34 IST](https://github.com/SwasthBharat/Doctor-Dashboard/commit/442151cca4ec209336abfe24a2d62bbba3e338ba)
+   - Latest Commit Message: Add files via upload
+   - No. of Changed Files: 2
    - Files modified: 
-      - [README.md](https://github.com/SwasthBharat/Doctor-Dashboard/blob/2134845642e7f919e00babac60e19f85dc050620/README.md)
+      - [.github/workflows/update_readme.yml](https://github.com/SwasthBharat/Doctor-Dashboard/blob/90f3ed3c0fbf43e8c62f39a9995c8f3bcbb1dbca/.github%2Fworkflows%2Fupdate_readme.yml)
+      - [.github/workflows/wflo.py](https://github.com/SwasthBharat/Doctor-Dashboard/blob/90f3ed3c0fbf43e8c62f39a9995c8f3bcbb1dbca/.github%2Fworkflows%2Fwflo.py)
 
 
 
 # [**Frontend Web**](https://github.com/SwasthBharat/Frontend-Web)
    - Updated by [Satyendra](https://github.com/S4tyendra)
-   - Updated at [2023-09-16 20:15:56 IST](https://github.com/SwasthBharat/Frontend-Web/commit/e9a13be2a1cd22f13ea9af8054b01bb1c65d079f)
-   - Latest Commit Message: Delete README.md
-   - No. of Changed Files: 1
+   - Updated at [2023-09-16 22:06:42 IST](https://github.com/SwasthBharat/Frontend-Web/commit/3d65a04ac6bda98c9538af4338081fbc21beb80c)
+   - Latest Commit Message: Add files via upload
+   - No. of Changed Files: 2
    - Files modified: 
-      - [README.md](https://github.com/SwasthBharat/Frontend-Web/blob/e9a13be2a1cd22f13ea9af8054b01bb1c65d079f/README.md)
+      - [.github/workflows/update_readme.yml](https://github.com/SwasthBharat/Frontend-Web/blob/75a3f78f4ef21dc3788917f894fcb0b38cee1bdf/.github%2Fworkflows%2Fupdate_readme.yml)
+      - [.github/workflows/wflo.py](https://github.com/SwasthBharat/Frontend-Web/blob/75a3f78f4ef21dc3788917f894fcb0b38cee1bdf/.github%2Fworkflows%2Fwflo.py)
 
 
 
